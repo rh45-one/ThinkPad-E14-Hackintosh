@@ -17,4 +17,4 @@ However, the action has since expired and it need to be compiled again.<br/>
 I included the appropriate version inside my *kexts* folder, but it can also be recompiled using Xcode.
 
 #### Additional features (Lenovo laptops)
-Consider installing [YogaSMC](https://github.com/zhen-zen/YogaSMC) to enable additional features such as FN keys, charge threshold, fan control, keyboad backlight control, etc.
+Consider installing [YogaSMC](https://github.com/zhen-zen/YogaSMC) and installing the app on MacOS to enable additional features such as FN keys, charge threshold, fan control, keyboad backlight control, etc.
